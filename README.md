@@ -72,6 +72,15 @@ natsuki221-jlpt_qdb/
 
 ---
 
+## ✅ TODO List
+
+- [x] 🐛 設計爬蟲程式建立初始資料庫
+- [ ] 🎨 以此資料庫為基礎，設計使用者介面（UI）
+- [ ] 🧠 提供批改功能，並針對錯誤題型提供詳解
+- [ ] 📚 建立 RAG（Retrieval-Augmented Generation）架構應用
+
+---
+
 ## 🪪 授權 License
 
 此專案使用 MIT 授權條款。  
